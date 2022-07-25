@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nPcWA5wXogj8oSSGhf8h4EPcX6l2+535QCrWiAVm9mnQQf4+hOnkCK+kR9RROr7Gp+GmKe08h25A4L63vIPmBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JhonataSantos\\Documents\\studies\\RabbitMQDotNet\\AppSubscriber\\AppListenerWorker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JhonataSantos\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\JhonataSantos\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\JhonataSantos\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

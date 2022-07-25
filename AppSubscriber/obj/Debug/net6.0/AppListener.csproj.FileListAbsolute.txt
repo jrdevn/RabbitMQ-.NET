@@ -1,0 +1,17 @@
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\bin\Debug\net6.0\AppListener.exe
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\bin\Debug\net6.0\AppListener.deps.json
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\bin\Debug\net6.0\AppListener.runtimeconfig.json
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\bin\Debug\net6.0\AppListener.dll
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\bin\Debug\net6.0\AppListener.pdb
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\AppListener.csproj.AssemblyReference.cache
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\AppListener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\AppListener.AssemblyInfoInputs.cache
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\AppListener.AssemblyInfo.cs
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\AppListener.csproj.CoreCompileInputs.cache
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\AppListener.csproj.CopyComplete
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\AppListener.dll
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\refint\AppListener.dll
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\AppListener.pdb
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\AppListener.genruntimeconfig.cache
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\ref\AppListener.dll

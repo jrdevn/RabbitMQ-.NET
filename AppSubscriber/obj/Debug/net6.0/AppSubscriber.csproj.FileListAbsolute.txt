@@ -1,0 +1,17 @@
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\bin\Debug\net6.0\AppSubscriber.exe
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\bin\Debug\net6.0\AppSubscriber.deps.json
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\bin\Debug\net6.0\AppSubscriber.runtimeconfig.json
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\bin\Debug\net6.0\AppSubscriber.dll
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\bin\Debug\net6.0\AppSubscriber.pdb
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\AppSubscriber.csproj.AssemblyReference.cache
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\AppSubscriber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\AppSubscriber.AssemblyInfoInputs.cache
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\AppSubscriber.AssemblyInfo.cs
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\AppSubscriber.csproj.CoreCompileInputs.cache
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\AppSubscriber.csproj.CopyComplete
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\AppSubscriber.dll
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\refint\AppSubscriber.dll
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\AppSubscriber.pdb
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\AppSubscriber.genruntimeconfig.cache
+C:\Users\JhonataSantos\Documents\studies\RabbitMQDotNet\AppSubscriber\obj\Debug\net6.0\ref\AppSubscriber.dll
